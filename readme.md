@@ -1,8 +1,3 @@
-Node api starting point
+Node api
 
-`git clone https://github.com/Chayuan/node-api-starting-point.git`
-
-`yarn`
-
-
-
+Création de l'api node nécessaire au développement de l'application Barathon, voir : https://github.com/Skiiners06/Barathons
